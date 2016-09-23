@@ -1,5 +1,9 @@
-@import 'https://fonts.googleapis.com/css?family=Righteous';
+@import 'https://fonts.googleapis.com/css?family=Righteous|Ubuntu';
 
 body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1 h2 h3 {
 	font-family: 'Righteous', cursive;
 }
