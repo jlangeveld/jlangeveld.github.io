@@ -4,3 +4,6 @@
 [submodule "markdowned"]
 	path = markdowned
 	url = https://github.com/jlangeveld/markdowned.git
+[submodule "keeweb"]
+	path = keeweb
+	url = https://github.com/jlangeveld/keeweb.git
