@@ -1,3 +1,6 @@
 [submodule "mindmapit"]
 	path = mindmapit
 	url = https://github.com/jlangeveld/mindmapit.git
+[submodule "markdowned"]
+	path = markdowned
+	url = https://github.com/jlangeveld/markdowned.git
