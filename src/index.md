@@ -1,5 +1,6 @@
 ---
 title: De wereld van Jeroen
+css: index.css
 header-includes: <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 ...
 
