@@ -1,0 +1,3 @@
+[submodule "mindmapit"]
+	path = mindmapit
+	url = git@github.com:jlangeveld/mindmapit.git
