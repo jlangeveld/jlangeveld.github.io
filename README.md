@@ -1,5 +1,1 @@
-# jlangeveld.github.io
-
-Pages!
-
-## and more... 
+https://jlangeveld.github.io
